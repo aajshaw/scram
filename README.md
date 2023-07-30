@@ -9,3 +9,5 @@ The program can be made to auto-run in the normal way by renaming it to main.py.
 There is audio feedback that is toggled by pressing the Start of Day button three times.
 
 A small Easter Egg is included, a tune is triggered when the following sequence of buttons is pressed, route A twice, route B, route A twice, route B. Be aware that the program will be unresponsive until the tune has finished playing.
+
+![Maker Pi RP 2040](annotated_maker_pi_rp_2040.jpg)
